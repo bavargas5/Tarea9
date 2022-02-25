@@ -13,6 +13,18 @@
 
 **CAP 17**
 
+
+
+**CAP 18**
+
+
+
+
+## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+
+** CAP 17**
+
 **1. Cierto circuito RLC en serie tiene los siguientes valores: R =10Ω, C =0.047 uF, y L = 5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz.**
 
 ![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BN/1.png)
@@ -50,7 +62,6 @@
 ![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BN/11.png)
 
 **17. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.**
-
 
 ![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BN/12.png)
 
@@ -90,19 +101,91 @@
 
 ![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BN/25.png)
 
-**CAP 18**
-
-
-
-
-## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
-
-** CAP 17**
-
-
 ** CAP 18**
 
+**7. Trace una curva de Bode para cada una de las partes del problema 5.**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/1.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/2.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/3.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/4.png)
+
+**9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB:**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/5.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/6.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/7.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/8.png)
+
+**11. En un filtro pasaaltas, XC = 500 Ω y R = 2.2 k Ω. ¿Cuál es el voltaje de salida (Vsal) cuando Vent =10 V rms?**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/9.png)
+
+**13. Determine el voltaje de salida de cada filtro mostrado en la figura a la frecuencia especificada cuando Vent = 10 V.**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/10.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/11.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/12.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/13.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/14.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/15.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/16.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/17.png)
+
+**15. Trace la curva de Bode para cada filtro mostrado en la figura del literal 13:**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/18.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/19.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/20.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/21.png)
+
+**17. Determine la frecuencia central para cada filtro de la figura.**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/22.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/23.png)
+
+**19. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura? Suponga que la respuesta es simétrica con respecto a f0.**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/24.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/25.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/26.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/27.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/28.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/29.png)
+
+**21. Si la resistencia de devanado de las bobinas que aparecen en la figura es de 4 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 120 V?**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/30.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/31.png)
+
+**25. Para cada filtro de la figura, determine la frecuencia central de la banda de rechazo.**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/32.png)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BV/33.png)
 
 ## VIDEO
 
