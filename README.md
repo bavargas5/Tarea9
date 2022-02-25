@@ -11,11 +11,11 @@
 
 ## MARCO TEÓRICO (RESUMEN)
 
-**CAP 17**
+**CIRCUITOS RLC Y RESONANCIA - CAP 17**
 
 
 
-**CAP 18**
+**FILTROS PASIVOS - CAP 18**
 
 
 
@@ -23,7 +23,7 @@
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 
-** CAP 17**
+**CIRCUITOS RLC Y RESONANCIA - CAP 17**
 
 **1. Cierto circuito RLC en serie tiene los siguientes valores: R =10Ω, C =0.047 uF, y L = 5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz.**
 
@@ -101,7 +101,7 @@
 
 ![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BN/25.png)
 
-** CAP 18**
+**FILTROS PASIVOS - CAP 18**
 
 **7. Trace una curva de Bode para cada una de las partes del problema 5.**
 
