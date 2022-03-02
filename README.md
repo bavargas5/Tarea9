@@ -265,7 +265,8 @@ https://youtu.be/-2OXH6pzgs0
 
 ## BIBLIOGRAFÍA
 
+- Electronica, W. (2020, 14 julio). Filtros Pasa banda. Wilaebaelectronica. Recuperado 1 de marzo de 2022, de https://wilaebaelectronica.blogspot.com/2017/01/filtros-pasa-banda.htmlFiltros pasivos. (s. f.). 
+
+- Electrónica fácil. Recuperado 1 de marzo de 2022, de https://www.electronicafacil.net/tutoriales/Filtros-pasivos.html
 
 -Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
-
-
