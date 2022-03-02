@@ -4,7 +4,7 @@
 
 **Generales**
 
- -Desarrollar un análisis critico a la hora de disponer de un circuito RL o RC que cuenta con resonancias en series o paralelo para mejorar la comprensión de un circuito que tenga alguna similitud con lo nombre anteriormente  
+Desarrollar un análisis critico a la hora de disponer de un circuito RL o RC que cuenta con resonancias en series o paralelo para mejorar la comprensión de un circuito que tenga alguna similitud con lo nombre anteriormente  
 
 **Específicos**
 
@@ -258,9 +258,9 @@ https://youtu.be/-2OXH6pzgs0
 
 ## CONCLUSIONES
 
--En base a lo expuesto anteriormente se amplio nuestro conocimiento debido a que analizamos como es el proceso que se da en los circuitos que cuentan con resistencias, inductores y capacitores ya sea que se encuentre en serie o paralelo 
+- n base a lo expuesto anteriormente se amplio nuestro conocimiento debido a que analizamos como es el proceso que se da en los circuitos que cuentan con resistencias, inductores y capacitores ya sea que se encuentre en serie o paralelo 
 
--Es importante aclarar que los filtros pueden utilizar varias combinaciones con resistencias, inductores, amplificadores entre otras componentes 
+- Es importante aclarar que los filtros pueden utilizar varias combinaciones con resistencias, inductores, amplificadores entre otras componentes 
 
 
 ## BIBLIOGRAFÍA
@@ -269,4 +269,4 @@ https://youtu.be/-2OXH6pzgs0
 
 - Electrónica fácil. Recuperado 1 de marzo de 2022, de https://www.electronicafacil.net/tutoriales/Filtros-pasivos.html
 
--Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
+- Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
