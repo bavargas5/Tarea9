@@ -106,6 +106,25 @@
 
 ![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BN/25.png)
 
+****
+
+****
+
+****
+
+****
+
+****
+
+****
+
+****
+
+****
+
+****
+
+****
 **FILTROS PASIVOS - CAP 18**
 
 **7. Trace una curva de Bode para cada una de las partes del problema 5.**
