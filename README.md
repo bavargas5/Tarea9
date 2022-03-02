@@ -106,26 +106,67 @@
 
 ![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20BN/25.png)
 
-****
+**31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?**
 
-****
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/F_31.JPG)
 
-****
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_31_1.JPG)
 
-****
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_31_2.JPG)
 
-****
+**33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje
+entre las terminales de cada componente.**
 
-****
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/F_33.JPG)
 
-****
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_33_1.JPG)
 
-****
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_33_2.JPG)
 
-****
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_33_3.JPG)
 
-****
+**37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/F_37.JPG)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_37_1.JPG)
+
+**39. En condición de resonancia, XL = 2 kΩ y RW = 25 Ω en un circuito RLC en paralelo. La frecuencia resonante es de 5 kHz. Determine el ancho de banda.**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_39_1.JPG)
+
+**41. En cierto circuito RLC, la potencia en condición de resonancia es de 2.75 W. ¿Cuál es la potencia a la
+frecuencia crítica baja?**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_41_1.JPG)
+
+**43. Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, ¿cuál
+es el ancho de banda a la misma fr?**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_43_1.JPG)
+
 **FILTROS PASIVOS - CAP 18**
+**1. En cierto filtro pasabajas, XC = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V rms?**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_1_1.JPG)
+
+**3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent = 10 **
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/F_3.JPG)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_3_1.JPG)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_3_2.JPG)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_3_3.JPG)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_3_4.JPG)
+
+**5. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas:**
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/F_5.JPG)
+
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/R_5_1.JPG)
 
 **7. Trace una curva de Bode para cada una de las partes del problema 5.**
 
