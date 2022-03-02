@@ -23,8 +23,7 @@
 
 **FILTROS PASIVOS - CAP 18**
 
-
-
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/Filtros%20Pasivos%201.png)
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
