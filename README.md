@@ -19,7 +19,7 @@ Desarrollar un análisis critico a la hora de disponer de un circuito RL o RC qu
 
 **CIRCUITOS RLC Y RESONANCIA - CAP 17**
 
-
+![](https://github.com/bavargas5/Tarea9/blob/main/IMG%20AR/Circuitos%20RLC%20y%20Resonancia.png)
 
 **FILTROS PASIVOS - CAP 18**
 
